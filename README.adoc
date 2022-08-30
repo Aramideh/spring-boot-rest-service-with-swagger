@@ -220,3 +220,13 @@ The following guides may also be helpful:
 * https://spring.io/guides/gs/circuit-breaker/[Circuit Breaker]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/footer.adoc[]
+
+
+
+
+* Changes :
+	
+	1. Port changed to 9090
+	2. swagger-ui is enabled, can access from `http://localhost:9090/swagger-ui/`
+	3. the Magik consumer webservices for this spring boot repository is available in gss_custom product ( this repository may be private)
+	
