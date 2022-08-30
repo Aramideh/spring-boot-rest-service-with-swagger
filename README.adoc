@@ -223,8 +223,8 @@ include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/
 
 
 
-
-* Changes :
+== Test the Service
+Changes :
 	
 	1. Port changed to 9090
 	2. swagger-ui is enabled, can access from `http://localhost:9090/swagger-ui/`
